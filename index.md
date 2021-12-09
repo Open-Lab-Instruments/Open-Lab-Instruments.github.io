@@ -2,4 +2,8 @@
 
 ## Softwares
 
-* [Electronic calculator](/Electronic_calculator.md)
+- [Electronic calculator](/products/sw/Electronic_calculator.md)
+
+## Hardwares
+
+- [Electronic load](/products/hw/Eletronic_load.md)
