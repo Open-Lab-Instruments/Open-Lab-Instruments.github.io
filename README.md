@@ -1,3 +1,3 @@
 # Open Lab Site
 
-This is the provisional site
+Temporary web site by @denismarson for Opena Lab Instruments project.
